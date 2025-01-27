@@ -2,4 +2,5 @@
 Project Name: Hotel management System
 <br>
 <<<<<<< HEAD >>>>>>
-Author Rakibul Islam
+<br>
+Author Rakibul Islamcl
